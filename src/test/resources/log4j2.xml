@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration strict="true">
+<Appenders>
+<Appeder type="Console" name="con">
+<Layout type="patternLayout"
+pattern="%d{yyyy-MM-dd HH:mm:ss.SSS}[%t] %-7level %logger{36} -%m%n"></Layout>
+</Appeder>
+
+<Appender type="file" name="fi" filename="./logdata/logger.log">
+<Layout type="patternLayout"
+pattern="%d{yyyy-MM-dd HH:mm:ss.SSS} [%t] %-7level %logger{36} -%m%n"></Layout>
+</Appender>
+</Appenders>
+
+<Loggers>
+<Root level="all">
+<AppenderRef ref="fi"></AppenderRef>
+</Root>
+</Loggers>
+</Configuration>

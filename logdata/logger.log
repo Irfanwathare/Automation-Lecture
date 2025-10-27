@@ -1,0 +1,41 @@
+2025-09-29 19:26:11.763 [main] ERROR   com.loggers.LogDemo -This is an error message
+2025-09-29 19:26:11.764 [main] FATAL   com.loggers.LogDemo -This is an Fatal message
+2025-09-29 19:26:11.764 [main] INFO    com.loggers.LogDemo -This is an info message
+2025-09-29 19:26:11.765 [main] TRACE   com.loggers.LogDemo -This is an trace message
+2025-09-29 19:26:11.765 [main] DEBUG   com.loggers.LogDemo -This is an debug message
+2025-09-29 19:26:31.040 [main] ERROR   com.loggers.LogDemo -This is an error message
+2025-09-29 19:26:31.042 [main] FATAL   com.loggers.LogDemo -This is an Fatal message
+2025-09-29 19:26:31.042 [main] INFO    com.loggers.LogDemo -This is an info message
+2025-09-29 19:26:31.043 [main] TRACE   com.loggers.LogDemo -This is an trace message
+2025-09-29 19:26:31.043 [main] DEBUG   com.loggers.LogDemo -This is an debug message
+2025-09-29 19:50:38.275 [main] INFO    pageobjectmadule.Flipkart -User launch an chrome Browser
+2025-09-29 19:50:41.144 [main] INFO    pageobjectmadule.Flipkart -User has been redirected to flipkart side
+2025-09-29 19:50:44.840 [main] INFO    pageobjectmadule.Flipkart -User search an Mobile in search field
+2025-09-29 19:50:48.114 [main] INFO    pageobjectmadule.Flipkart -User has been redirected to flipkart side
+2025-09-29 19:50:48.349 [main] INFO    pageobjectmadule.Flipkart -user close login element
+2025-09-29 19:50:50.477 [main] INFO    pageobjectmadule.Flipkart -user click on view cart button
+2025-09-29 19:50:53.167 [main] INFO    pageobjectmadule.Flipkart -user close an browser 
+2025-09-29 19:50:56.677 [main] INFO    pageobjectmadule.Flipkart -User launch an firefox Browser
+2025-09-29 19:50:59.021 [main] INFO    pageobjectmadule.Flipkart -User has been redirected to flipkart side
+2025-09-29 19:50:59.265 [main] INFO    pageobjectmadule.Flipkart -User search an Mobile in search field
+2025-09-29 19:51:02.811 [main] INFO    pageobjectmadule.Flipkart -User has been redirected to flipkart side
+2025-09-29 19:51:03.011 [main] INFO    pageobjectmadule.Flipkart -user close login element
+2025-09-29 19:51:05.543 [main] INFO    pageobjectmadule.Flipkart -user click on view cart button
+2025-09-29 19:51:08.646 [main] INFO    pageobjectmadule.Flipkart -user close an browser 
+2025-10-07 19:42:27.150 [main] ERROR   com.loggers.LogDemo -This is an error message
+2025-10-07 19:42:27.152 [main] FATAL   com.loggers.LogDemo -This is an Fatal message
+2025-10-07 19:42:27.152 [main] INFO    com.loggers.LogDemo -This is an info message
+2025-10-07 19:42:27.152 [main] TRACE   com.loggers.LogDemo -This is an trace message
+2025-10-07 19:42:27.152 [main] DEBUG   com.loggers.LogDemo -This is an debug message
+2025-10-27 19:31:45.044 [main] INFO    pageobjectmadule.Flipkart -User launch an chrome Browser
+2025-10-27 19:31:49.176 [main] INFO    pageobjectmadule.Flipkart -User has been redirected to flipkart side
+2025-10-27 19:31:52.850 [main] INFO    pageobjectmadule.Flipkart -User search an Mobile in search field
+2025-10-27 19:31:56.407 [main] INFO    pageobjectmadule.Flipkart -User has been redirected to flipkart side
+2025-10-27 19:31:56.827 [main] INFO    pageobjectmadule.Flipkart -user close an browser 
+2025-10-27 19:32:00.482 [main] INFO    pageobjectmadule.Flipkart -User launch an firefox Browser
+2025-10-27 19:32:02.755 [main] INFO    pageobjectmadule.Flipkart -User has been redirected to flipkart side
+2025-10-27 19:32:02.991 [main] INFO    pageobjectmadule.Flipkart -User search an Mobile in search field
+2025-10-27 19:32:06.623 [main] INFO    pageobjectmadule.Flipkart -User has been redirected to flipkart side
+2025-10-27 19:32:06.862 [main] INFO    pageobjectmadule.Flipkart -user close login element
+2025-10-27 19:32:09.400 [main] INFO    pageobjectmadule.Flipkart -user click on view cart button
+2025-10-27 19:32:12.639 [main] INFO    pageobjectmadule.Flipkart -user close an browser 
